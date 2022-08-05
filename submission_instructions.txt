@@ -1,0 +1,28 @@
+Submission Instructions The Shared Task for Euphemism Detection
+
+1. Your submission must be a .zip file containing a single file named "answer.txt". The name of the .zip file should not matter, but "answer.zip" is a safe choice.
+2. "answer.txt" must contain a row for each index in the test set (i.e. it should contain 393 lines).
+3. Each line should consist of an index number, followed by a comma, followed by the label. For example, the first line of your submisison might look like this:
+
+0,1
+
+which means the text for index 0 has a label of 1 (is euphemistic). 
+
+So, your "answer.txt" should look something like this:
+
+0,1
+1,0
+2,1
+3,0
+4,1
+...
+390,1
+391,0
+392,1
+
+Remember to zip your .txt file into a .zip file, and to submit the .zip file!
+
+Please contact us if you have any questions.
+
+
+
